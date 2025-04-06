@@ -82,9 +82,9 @@ def process_user_registration(json_string: str):
 
 
 valid_json = '''{
-    "name": "Alice Smith",
+    "name": "klaudi Lopez",
     "age": 30,
-    "email": "alice.smith@example.com",
+    "email": "klaudi.lopez@example.com",
     "is_employed": true,
     "address": {
         "city": "London",
